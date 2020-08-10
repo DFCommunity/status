@@ -1,11 +1,11 @@
 export const config = {
-    ENDPOINT: "https://v1.nocodeapi.com/betauser/uptime/dHmQOXeWbdNuJsII?monitors=784130459-784130462",
+    ENDPOINT: "https://v1.nocodeapi.com/bravo68web/uptime/DLiouSigsHlGBXBO",
 
-    title: "NoCodeAPI",
+    title: "DF Web Status",
 
-    website: "https://nocodeapi.com",
+    website: "https://dfcommunity.win",
 
-    twitterHandle: "@nocodeapi",
+    twitterHandle: "@df_techs",
     
-    twitterURL: "https://twitter.com/nocodeapi"
+    twitterURL: "https://twitter.com/df_techs"
 }
